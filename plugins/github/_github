@@ -1,4 +1,4 @@
-#compdef github
+#compdef gh github
 #autoload
 
 # in order to make this work, you will need to have the github gem installed
